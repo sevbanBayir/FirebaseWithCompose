@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "408426532783",
+    "project_id": "makeitso-9773d",
+    "storage_bucket": "makeitso-9773d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408426532783:android:69c2ae1e2d3c99e6b4e95a",
+        "android_client_info": {
+          "package_name": "com.sevban.makeitso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408426532783-e3bm12jkhp8a5j3a38g3hjv7404kust6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3zv3IDl7TB0vxB7ejlh5I7CfSKfm3aY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408426532783-e3bm12jkhp8a5j3a38g3hjv7404kust6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
